@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCC_Dynacoop", "TCC_Dynacoop\TCC_Dynacoop.csproj", "{2A0D4352-1500-4429-8279-20EBFFBFA123}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "SharedProject", "SharedProject\SharedProject.shproj", "{1DBE5A3D-1340-464A-B26C-4B35AC8DC688}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugin", "Plugin\Plugin.csproj", "{D72D6256-9049-4519-B02C-506C80D9A31F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebResourcesLibrary", "WebResourcesLibrary\WebResourcesLibrary.csproj", "{89659225-F1A4-4EF8-9366-2F77647D11AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebResourcesLibrary2", "WebResourcesLibrary2\WebResourcesLibrary2.csproj", "{DF30CD8A-A1BB-407E-A6D1-B45C3FBB5F38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A0D4352-1500-4429-8279-20EBFFBFA123}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A0D4352-1500-4429-8279-20EBFFBFA123}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A0D4352-1500-4429-8279-20EBFFBFA123}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A0D4352-1500-4429-8279-20EBFFBFA123}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D72D6256-9049-4519-B02C-506C80D9A31F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D72D6256-9049-4519-B02C-506C80D9A31F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D72D6256-9049-4519-B02C-506C80D9A31F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D72D6256-9049-4519-B02C-506C80D9A31F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89659225-F1A4-4EF8-9366-2F77647D11AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89659225-F1A4-4EF8-9366-2F77647D11AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89659225-F1A4-4EF8-9366-2F77647D11AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89659225-F1A4-4EF8-9366-2F77647D11AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF30CD8A-A1BB-407E-A6D1-B45C3FBB5F38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF30CD8A-A1BB-407E-A6D1-B45C3FBB5F38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF30CD8A-A1BB-407E-A6D1-B45C3FBB5F38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF30CD8A-A1BB-407E-A6D1-B45C3FBB5F38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {108862AB-39F8-4EC0-98A3-3BBCBE5E6A8F}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		SharedProject\SharedProject.projitems*{1dbe5a3d-1340-464a-b26c-4b35ac8dc688}*SharedItemsImports = 13
+		SharedProject\SharedProject.projitems*{2a0d4352-1500-4429-8279-20ebffbfa123}*SharedItemsImports = 4
+		SharedProject\SharedProject.projitems*{d72d6256-9049-4519-b02c-506c80d9a31f}*SharedItemsImports = 4
+	EndGlobalSection
+EndGlobal

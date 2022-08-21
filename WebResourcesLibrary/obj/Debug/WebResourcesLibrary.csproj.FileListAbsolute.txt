@@ -1,0 +1,6 @@
+C:\Users\Clara\Desktop\Dynacoop\TCC_Dynacoop\WebResourcesLibrary\bin\Debug\WebResourcesLibrary.dll
+C:\Users\Clara\Desktop\Dynacoop\TCC_Dynacoop\WebResourcesLibrary\bin\Debug\WebResourcesLibrary.pdb
+C:\Users\Clara\Desktop\Dynacoop\TCC_Dynacoop\WebResourcesLibrary\obj\Debug\WebResourcesLibrary.csproj.AssemblyReference.cache
+C:\Users\Clara\Desktop\Dynacoop\TCC_Dynacoop\WebResourcesLibrary\obj\Debug\WebResourcesLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Clara\Desktop\Dynacoop\TCC_Dynacoop\WebResourcesLibrary\obj\Debug\WebResourcesLibrary.dll
+C:\Users\Clara\Desktop\Dynacoop\TCC_Dynacoop\WebResourcesLibrary\obj\Debug\WebResourcesLibrary.pdb
